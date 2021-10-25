@@ -6,7 +6,7 @@
 thomasdixini@gmail.com
 (35)997532401
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDixini)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDixini)](https://github.com/radical/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
