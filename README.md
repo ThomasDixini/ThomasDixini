@@ -8,8 +8,6 @@ thomasdixini@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDixini)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github Followers](https://img.shields.io/github/followers/ThomasDixini?style=social)](https://github.com/ThomasDixini)
-[![Linkedin]](https://img.shields.io/badge/-Linkedin-0D0D0D?)()
 
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="left"> 
