@@ -1,6 +1,8 @@
-Estudante de Ciências da Computação com forte interesse em desenvolvimento front-end. Habilidades sólidas em ReactJS, JavaScript, HTML e CSS, com experiência em projetos pessoais e em equipe. Comprometido, autodidata e disposto a aprender continuamente. Buscando oportunidades para desenvolver minha carreira em um ambiente desafiador e estimulante.
-thomasdixini@gmail.com
-(35)997532401
+<p align="center">
+  Estudante de Ciências da Computação com forte interesse em desenvolvimento front-end. Habilidades sólidas em ReactJS, JavaScript, HTML e CSS, com experiência em projetos pessoais e em equipe. Comprometido, autodidata e disposto a aprender continuamente. Buscando oportunidades para desenvolver minha carreira em um ambiente desafiador e estimulante.
+ thomasdixini@gmail.com
+ (35)997532401
+</p>
 
 ![Thomás Dixini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDixini&show_icons=true&theme=radical)
 
