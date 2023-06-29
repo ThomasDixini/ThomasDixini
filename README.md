@@ -34,7 +34,7 @@ Estudante de Ciências da Computação com forte interesse em desenvolvimento fr
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="40" /> </a>****
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasDixini&repo=Github-Blog)](https://github.com/ThomasDixini/Github-Blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasDixini&repo=GithubBlog)](https://github.com/ThomasDixini/Github-Blog](https://github.com/ThomasDixini/GithubBlog))
 
 <!---
 ThomasDixini/ThomasDixini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
