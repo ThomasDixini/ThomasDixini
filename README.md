@@ -59,8 +59,6 @@ Estudante de Ciências da Computação com forte interesse em desenvolvimento fr
   </a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasDixini&repo=GithubBlog)](https://github.com/ThomasDixini/GithubBlog))
-
 <!---
 ThomasDixini/ThomasDixini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
