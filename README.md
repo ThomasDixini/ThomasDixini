@@ -65,8 +65,8 @@ Estudante de Ciências da Computação com forte interesse em desenvolvimento fr
  <a href="https://nodejs.org/" rel="nofollow">
     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40" style="max-width: 100%;">
   </a>
- <a href="https://nodejs.org/" rel="nofollow">
-    <img src="https://www.svgrepo.com/show/306030/fastify.svg" alt="fastify" width="40" height="40" style="max-width: 100%;">
+ <a href="https://fastify.dev/" rel="nofollow">
+    <img src="https://archive.org/services/img/github.com-fastify-fastify_-_2017-09-08_05-29-09" alt="fastify" width="40" height="40" style="max-width: 100%;">
   </a>
 </p>
 
