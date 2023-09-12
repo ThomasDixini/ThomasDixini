@@ -1,13 +1,15 @@
 
-# Olá, eu sou a Thomás Dixini! 👋
+# Olá, eu sou Thomás Dixini! 👋
 
 ## 🚀 Sobre mim
-Estudante de Ciências da Computação com forte interesse em desenvolvimento front-end. Habilidades sólidas em ReactJS, JavaScript, HTML e CSS, com experiência em projetos pessoais. Comprometido, autodidato e disposto a aprender continuamente. Buscando oportunidades para desenvolver minha carreira em um ambiente desafiador e estimulante.
+Estudante de Ciências da Computação com forte interesse em desenvolvimento web. Habilidades sólidas em ReactJS, JavaScript, HTML, CSS e desenvolvendo conhecimentos em Back-end, com experiência em projetos pessoais. Comprometido, autodidato e disposto a aprender continuamente. Buscando oportunidades para desenvolver minha carreira em um ambiente desafiador e estimulante.
 
 ## Outras seções comuns em perfis do GitHub
-👩‍💻 Atualmente estou criando projetos com ReactJS...
+👩‍💻 Atualmente estou criando projetos com ReactJS e também projetos NodeJS...
 
-🧠 Estou aprendendo Front-End...
+🖌️ Tenho mais habilidades e experiência em front-end..
+
+🧠 Estou aprendendo Back-End e arquitetura de software...
 
 👯‍♀️ Procuro colaborar em Desenvolvimento Web...
 
@@ -19,7 +21,11 @@ Estudante de Ciências da Computação com forte interesse em desenvolvimento fr
  - CSS
  - ReactJS
  - NextJS 
-- um pouco de figma
+ - Figma ( Um pouco )
+   
+ - NodeJS
+ - Mysql
+ - Docker
 
 ## 🔗 Links
 
@@ -88,6 +94,8 @@ Estudante de Ciências da Computação com forte interesse em desenvolvimento fr
     <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="docker" width="40" height="40" style="max-width: 100%;">
   </a>
 </p>
+
+👒 E gosto um pouquinho de one piece hahaha. (O luffy será o rei dos piratas) ...
 
 <!---
 ThomasDixini/ThomasDixini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
