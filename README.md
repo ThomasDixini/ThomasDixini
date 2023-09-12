@@ -57,6 +57,9 @@ Estudante de Ciências da Computação com forte interesse em desenvolvimento fr
   <a href="https://sass-lang.com" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;">
   </a>
+ <a href="https://nodejs.org/" rel="nofollow">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40" style="max-width: 100%;">
+  </a>
 </p>
 
 <!---
