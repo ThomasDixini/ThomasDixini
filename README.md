@@ -43,6 +43,12 @@ Estudante de Ciências da Computação com forte interesse em desenvolvimento we
   <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
   </a>
+ <a href="https://go.dev" rel="nofollow">
+    <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="golang" width="40" height="40" style="max-width: 100%;">
+  </a>
+ <a href="https://graphql.org" rel="nofollow">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40" style="max-width: 100%;">
+  </a>
 </p>
 
 
