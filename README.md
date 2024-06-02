@@ -5,7 +5,7 @@
 Estudante de Ciências da Computação com forte interesse em desenvolvimento web. Habilidades sólidas em ReactJS, JavaScript, HTML, CSS e desenvolvendo conhecimentos em Back-end, com experiência em projetos pessoais. Comprometido, autodidato e disposto a aprender continuamente. Buscando oportunidades para desenvolver minha carreira em um ambiente desafiador e estimulante.
 
 ## Outras seções comuns em perfis do GitHub
-👩‍💻 Atualmente estou criando projetos com ReactJS e também projetos NodeJS...
+👩‍💻 Atualmente estou criando projetos com Java/Spring e Flutter...
 
 🖌️ Tenho mais habilidades e experiência em front-end..
 
@@ -38,6 +38,9 @@ Estudante de Ciências da Computação com forte interesse em desenvolvimento we
   </a>
  <a href="https://graphql.org" rel="nofollow">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://dev.java" rel="nofollow">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="java" width="40" height="40" style="max-width: 100%;">
   </a>
 </p>
 
