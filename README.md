@@ -71,7 +71,7 @@
     <img src="https://archive.org/services/img/github.com-fastify-fastify_-_2017-09-08_05-29-09" alt="fastify" width="40" height="40" style="max-width: 100%;">
   </a>
   <a href="https://spring.io" rel="nofollow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="spring" width="40" height="80" style="max-width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="spring" width="80" height="40" style="max-width: 100%;">
   </a>
 </p>
 
