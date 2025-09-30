@@ -19,6 +19,9 @@
 - **Metodologias:** Scrum / Kanban
 - **Ferramentas:** Git, Docker
 
+## 🚀 Projetos
+
+
 ## 📫 Contato
 <div align="center">
   <a href="https://wa.me/5535997532401">
@@ -88,15 +91,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
-
-
-## 🚀 Projetos
-
-
-
-
-
-
 
 <p align="center"> 💡 Sempre aberto a novas oportunidades e desafios tecnológicos </p>
 
