@@ -11,9 +11,7 @@
 - **Metodologias:** Scrum, Clean Code, Versionamento Git  
 - **Soft Skills:** Resolução de problemas, trabalho em equipe, aprendizado contínuo  
 
-
-## 🚀 Projetos
-
+## 📫 Contato
 <div align="center">
   <a href="https://wa.me/5535997532401">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -25,6 +23,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+## 🚀 Projetos
+
 
 
 
