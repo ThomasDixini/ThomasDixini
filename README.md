@@ -3,13 +3,21 @@
 
 
 ## 👨‍💻 Sobre Mim
+👋 Olá! Sou Thomas Dixini, Desenvolvedor Full Stack .NET apaixonado por criar aplicações escaláveis e de alto desempenho.
 
-## 🔧 Áreas de Atuação
-- **Desenvolvimento Backend:** C#, ASP.NET Core, Web APIs RESTful  
-- **Banco de Dados:** Modelagem, SQL, Entity Framework  
-- **Arquitetura:** Clean Architecture, SOLID Principles, Design Patterns  
-- **Metodologias:** Scrum, Clean Code, Versionamento Git  
-- **Soft Skills:** Resolução de problemas, trabalho em equipe, aprendizado contínuo  
+💻 Trabalho atualmente com C#, ASP.NET, .NET Core, Angular, JS, SQL Server e Azure, com foco em otimização de performance, arquitetura limpa e experiência do usuário.
+
+⚡ Gosto de resolver problemas complexos, melhorar a estabilidade de sistemas e desenvolver soluções reutilizáveis que geram valor para usuários e equipes.
+
+📌 Estou sempre aprendendo, contribuindo e explorando novas tecnologias para entregar software eficiente e confiável.
+
+## 🔧 Stack Atual
+- **Desenvolvimento Backend:** C#, ASP.NET Core, Web APIs RESTful, API GraphQL  
+- **Banco de Dados:** Modelagem, SQL Server, Entity Framework  
+- **Arquitetura:** Hexagonal, Clean Architecture, Monolitos, Design Patterns  
+- **Conceitos:** SOLID Principles, Clean Code
+- **Metodologias:** Scrum / Kanban
+- **Ferramentas:** Git, Docker
 
 ## 📫 Contato
 <div align="center">
