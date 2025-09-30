@@ -19,6 +19,11 @@
 - **Metodologias:** Scrum / Kanban
 - **Ferramentas:** Git, Docker
 
+## 🌎 Idiomas
+
+Inglês Avançado
+
+
 ## 🚀 Projetos
 
 ![Status](https://img.shields.io/badge/status-atualizando-yellow?style=for-the-badge&logo=github)
