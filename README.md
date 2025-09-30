@@ -21,6 +21,16 @@
 
 ## 🚀 Projetos
 
+![Status](https://img.shields.io/badge/status-atualizando-yellow?style=for-the-badge&logo=github)
+
+
+
+> ⚠️ Atualmente estou atualizando e organizando meus repositórios.  
+> Em breve novos projetos estarão disponíveis por aqui!
+
+Estou reorganizando meus repositórios e adicionando novos projetos.  
+Fique à vontade para acompanhar as atualizações! 🚀
+
 
 ## 📫 Contato
 <div align="center">
