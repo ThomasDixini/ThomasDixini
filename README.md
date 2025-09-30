@@ -5,11 +5,12 @@
 ## 👨‍💻 Sobre Mim
 
 ## 🔧 Áreas de Atuação
-Desenvolvimento Backend: C#, ASP.NET Core, Web APIs RESTful
-Banco de Dados: Modelagem, SQL, Entity Framework
-Arquitetura: Clean Architecture, SOLID Principles, Design Patterns
-Metodologias: Scrum, Clean Code, Versionamento Git
-Soft Skills: Resolução de problemas, trabalho em equipe, aprendizado contínuo
+- **Desenvolvimento Backend:** C#, ASP.NET Core, Web APIs RESTful  
+- **Banco de Dados:** Modelagem, SQL, Entity Framework  
+- **Arquitetura:** Clean Architecture, SOLID Principles, Design Patterns  
+- **Metodologias:** Scrum, Clean Code, Versionamento Git  
+- **Soft Skills:** Resolução de problemas, trabalho em equipe, aprendizado contínuo  
+
 
 ## 🚀 Projetos
 
