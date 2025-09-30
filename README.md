@@ -21,7 +21,7 @@
 
 ## 🌎 Idiomas
 
-Inglês Avançado
+- **Inglês Avançado** 
 
 
 ## 🚀 Projetos
