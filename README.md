@@ -35,6 +35,9 @@
   </a>
 </div>
 
+
+## 🎯 Tecnologias que já usei
+
 ## 🚀 Projetos
 
 
