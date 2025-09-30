@@ -38,10 +38,9 @@
 
 ## 📊 Estatísticas GitHub
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasDixini&show_icons=true&theme=radical" alt="GitHub stats" height="180px" width="50%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasDixini&theme=github_dark" alt="Resumo" width="50%"/>
-</div>
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDixini&show_icons=true&theme=radical) | ![Resumo](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasDixini&theme=github_dark) |
+| --- | --- |
+
 
 ## 🎯 Tecnologias que já usei
 
