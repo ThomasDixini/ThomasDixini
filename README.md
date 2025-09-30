@@ -38,8 +38,11 @@
 
 ## 📊 Estatísticas GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDixini&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ThomasDixini&theme=dark&hide_border=true)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomasDixini&show_icons=true&theme=radical" alt="GitHub stats" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=ThomasDixini&theme=dark&hide_border=true" alt="GitHub streak" height="180px"/>
+</div>
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasDixini&theme=github_dark" alt="Resumo" width="100%" />
 </div>
