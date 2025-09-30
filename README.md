@@ -4,6 +4,15 @@
 
 ## 👨‍💻 Sobre Mim
 
+## 🔧 Áreas de Atuação
+Desenvolvimento Backend: C#, ASP.NET Core, Web APIs RESTful
+Banco de Dados: Modelagem, SQL, Entity Framework
+Arquitetura: Clean Architecture, SOLID Principles, Design Patterns
+Metodologias: Scrum, Clean Code, Versionamento Git
+Soft Skills: Resolução de problemas, trabalho em equipe, aprendizado contínuo
+
+## 🚀 Projetos
+
 <div align="center">
   <a href="https://wa.me/5535997532401">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
