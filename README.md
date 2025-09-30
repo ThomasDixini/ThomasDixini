@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/thomas-dixini/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:thomasdixini@gmail.com" title="Me envie um email">
+    <img src="https://img.shields.io/badge/my_email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://portfoliothomasdixini.netlify.app">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
