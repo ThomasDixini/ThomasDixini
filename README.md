@@ -95,8 +95,6 @@
 
 </div>
 
-<p align="center"> 💡 Sempre aberto a novas oportunidades e desafios tecnológicos </p>
-
 <!---
 ThomasDixini/ThomasDixini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
