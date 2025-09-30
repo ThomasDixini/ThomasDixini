@@ -40,9 +40,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDixini&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ThomasDixini&theme=dark&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasDixini&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomasDixini&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomasDixini&theme=github_dark)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasDixini&theme=github_dark" alt="Resumo" width="100%" />
+</div>
+
+
 
 
 ## 🎯 Tecnologias que já usei
