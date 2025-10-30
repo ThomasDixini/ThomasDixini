@@ -26,9 +26,16 @@
 
 ## 🚀 Projetos
 
-![Status](https://img.shields.io/badge/status-atualizando-yellow?style=for-the-badge&logo=github)
+<!-- ![Status](https://img.shields.io/badge/status-atualizando-yellow?style=for-the-badge&logo=github)
 > ⚠️ Atualmente estou atualizando e organizando meus repositórios.  
-> Em breve novos projetos estarão disponíveis por aqui!
+> Em breve novos projetos estarão disponíveis por aqui! -->
+
+<div>
+  <a href="https://estetica-avancada.netlify.app">
+    Landing Page - Estética avançada
+  </a>
+  <p>Landing page de estética criada para divulgação de serviços, com design moderno, interface responsiva e foco em experiência do usuário.</p>
+</div>
 
 ## 📫 Contato
 <div align="center">
