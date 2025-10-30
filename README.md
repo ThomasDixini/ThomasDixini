@@ -31,9 +31,9 @@
 > Em breve novos projetos estarão disponíveis por aqui! -->
 
 <div>
-  <a href="https://estetica-avancada.netlify.app" style="font-weigth: bold; text-decoration:none;"> 
+  - ** <a href="https://estetica-avancada.netlify.app" style="font-weigth: bold; text-decoration:none;"> 
     Landing Page - Estética avançada
-  </a>
+  </a> **
   <p>&nbsp;Landing page de estética criada para divulgação de serviços, com design moderno, interface responsiva e foco em experiência do usuário.</p>
 </div>
 
