@@ -31,7 +31,7 @@
 > Em breve novos projetos estarão disponíveis por aqui! -->
 
 <div>
-  <a href="https://estetica-avancada.netlify.app" style="font-weigth: bold; text-decoration:none;" target="_blank"> 
+  <a href="https://github.com/ThomasDixini/AplicativoEsteticaDemonstracao" style="font-weigth: bold; text-decoration:none;" target="_blank"> 
     -  Aplicativo de Estética – Projeto Demonstrativo
   </a>
   <p>&nbsp;Aplicativo mobile desenvolvido em React Native (Expo) com backend em .NET, inspirado em um sistema real criado para um cliente da área de estética. O projeto foi construído como uma versão demonstrativa para portfólio, mantendo a mesma arquitetura, stack e complexidade técnica do projeto real, sem expor dados, regras de negócio sensíveis ou código proprietário.</p>
