@@ -17,7 +17,7 @@
 - **Arquitetura:** Hexagonal, Clean Architecture, Monolitos, Design Patterns  
 - **Conceitos:** SOLID Principles, Clean Code
 - **Metodologias:** Scrum / Kanban
-- **Ferramentas:** Git, Docker
+- **Ferramentas:** Git, Docker, NGINX
 
 ## 🌎 Idiomas
 
