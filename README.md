@@ -62,7 +62,7 @@
 
 ## 📊 Estatísticas GitHub
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDixini)(https://github.com/anuraghazra/github-readme-stats) | ![Resumo](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasDixini&theme=github_dark) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasDixini&show_icons=true&theme=github_dark) | ![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasDixini&theme=github_dark) |
 | --- | --- |
 
 
