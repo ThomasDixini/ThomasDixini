@@ -1,3 +1,23 @@
+# Thomas Dixini
+
+<details>
+  <summary>🌐 <b>English Version (Click to expand)</b></summary>
+
+  ### About Me
+  Hello! I'm Thomas Dixini, a .NET Full Stack Developer passionate about creating scalable and high-performance applications.
+  
+  * **Current Stack:** C#, ASP.NET Core, Angular, SQL Server, and Azure.
+  * **Focus:** Performance optimization, Clean Architecture, and User Experience.
+  ...
+</details>
+
+<details open>
+  <summary>🌐 <b>Versão em Português (Clique para expandir)</b></summary>
+
+  ### Sobre Mim
+  Olá! Sou Thomas Dixini... (Seu texto atual)
+</details>
+
 <h1 align="center">Desenvolvedor Fullstack</h1>
 <h2 align="center">.NET C# | SQL Server | Azure | Node.js | Angular | JavaScript</h2>
 
