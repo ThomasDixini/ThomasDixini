@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="https://github.com/ThomasDixini">🇧🇷 Português</a> | <a href="https://github.com/ThomasDixini/ThomasDixini/blob/main/README.en.md">🇺🇸 English</a>
+</div>
+
 <h1 align="center">Desenvolvedor Fullstack</h1>
 <h2 align="center">.NET C# | SQL Server | Azure | Node.js | Angular | JavaScript</h2>
 
