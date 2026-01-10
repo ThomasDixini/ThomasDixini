@@ -44,48 +44,6 @@
 
 </div>
 
-<hr />
-
-<div id="portuguese">
-
-<h1 align="center">Fullstack Developer</h1>
-<h2 align="center">.NET C# | SQL Server | Azure | Node.js | Angular | JavaScript</h2>
-
-## 👨‍💻 About Me
-👋 Hello! I'm Thomas Dixini, a .NET Full Stack Developer passionate about building scalable, high-performance applications.
-
-💻 I currently work with C#, ASP.NET, .NET Core, Angular, JS, SQL Server, and Azure, focusing on performance optimization, clean architecture, and user experience.
-
-⚡ I enjoy solving complex problems, improving system stability, and developing reusable solutions that deliver value to both users and teams.
-
-📌 I am always learning, contributing, and exploring new technologies to deliver efficient and reliable software.
-
-## 🔧 Current Stack
-- **Backend Development:** C#, ASP.NET Core, RESTful Web APIs, GraphQL API  
-- **Database:** Data Modeling, SQL Server, Entity Framework  
-- **Architecture:** Hexagonal, Clean Architecture, Monoliths, Design Patterns  
-- **Concepts:** SOLID Principles, Clean Code
-- **Methodologies:** Scrum / Kanban
-- **Tools:** Git, Docker, NGINX
-
-## 🌎 Languages
-- **Advanced English** 
-
-## 🚀 Projects
-
-<div>
-  <a href="https://github.com/ThomasDixini/AplicativoEsteticaDemonstracao" style="font-weight: bold; text-decoration:none;" target="_blank"> 
-    - Aesthetics App – Demo Project
-  </a>
-  <p>Mobile application developed in React Native (Expo) with a .NET backend, inspired by a real-world system created for a client in the aesthetics industry. This project was built as a portfolio demonstration, maintaining the same architecture, stack, and technical complexity as the original project.</p>
-</div>
-<div>
-  <a href="https://estetica-avancada.netlify.app" style="font-weight: bold; text-decoration:none;" target="_blank"> 
-    - Landing Page - Advanced Aesthetics
-  </a>
-  <p>Aesthetics landing page created for service promotion, featuring a modern design, responsive interface, and a strong focus on user experience.</p>
-</div>
-
 ---
 
 ## 📫 Contact
