@@ -67,7 +67,9 @@
 - **Tools:** Git, Docker, NGINX
 
 ## 🌎 Languages
-- **Advanced English** ## 🚀 Projects
+- **Advanced English** 
+
+## 🚀 Projects
 
 <div>
   <a href="https://github.com/ThomasDixini/AplicativoEsteticaDemonstracao" style="font-weight: bold; text-decoration:none;" target="_blank"> 
