@@ -59,12 +59,6 @@
   </a>
 </div>
 
-
-## 📊 Estatísticas GitHub
-
-![Estatísticas do Thomas](https://github-readme-stats.vercel.app/api?username=ThomasDixini&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-
 ## 🎯 Tecnologias que já usei
 
 <div align="center">
