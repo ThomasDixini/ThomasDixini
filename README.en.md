@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="#portuguese">🇧🇷 Português</a> | <a href="#english">🇺🇸 English</a>
+  <a href="https://github.com/ThomasDixini">🇧🇷 Português</a> | <a href="#english">🇺🇸 English</a>
 </div>
 
 <div id="english">
