@@ -62,7 +62,7 @@
 
 ## 📊 Estatísticas GitHub
 
-![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasDixini&theme=github_dark)
+![Estatísticas do Thomas](https://github-readme-stats.vercel.app/api?username=ThomasDixini&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 
 ## 🎯 Tecnologias que já usei
