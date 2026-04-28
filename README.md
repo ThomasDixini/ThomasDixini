@@ -7,24 +7,23 @@
 
 
 ## 👨‍💻 Sobre Mim
-👋 Olá! Sou Thomas Dixini, Desenvolvedor Full Stack .NET apaixonado por criar aplicações escaláveis e de alto desempenho.
-
-💻 Trabalho atualmente com C#, ASP.NET, .NET Core, Angular, JS, SQL Server e Azure, com foco em otimização de performance, arquitetura limpa e experiência do usuário.
+👋 Desenvolvedor Full Stack .NET com experiência em sistemas de produção. Atuo com foco em performance, qualidade de código e arquitetura.
 
 ⚡ Gosto de resolver problemas complexos, melhorar a estabilidade de sistemas e desenvolver soluções reutilizáveis que geram valor para usuários e equipes.
 
 📌 Estou sempre aprendendo, contribuindo e explorando novas tecnologias para entregar software eficiente e confiável.
 
 ## 🔧 Stack Atual
-- **Desenvolvimento Backend:** C#, ASP.NET Core, Web APIs RESTful, API GraphQL  
-- **Banco de Dados:** Modelagem, SQL Server, Entity Framework  
-- **Arquitetura:** Hexagonal, Clean Architecture, Monolitos, Design Patterns  
-- **Conceitos:** SOLID Principles, Clean Code
-- **Metodologias:** Scrum / Kanban
-- **Ferramentas:** Git, Docker, NGINX
+- **Desenvolvimento Backend:** C# · ASP.NET Core · Web APIs RESTful · Entity Framework Core · xUnit · Moq
+- **Mensageria & Infra:** RabbitMQ · Docker · Docker Compose · NGINX · GitHub Actions (CI/CD) · Azure
+- **Frontend & Mobile:** Angular · RxJS · TypeScript · React Native
+- **Banco de Dados:**  SQL Server · PostgreSQL · EF Core Migrations  
+- **Arquitetura & Práticas:**  Arquitetura em Camadas · SOLID · Clean Code · Design Patterns · Scrum / Kanban · Git Flow
+- **Ferramentas:** Git
 
 ## 🌎 Idiomas
 
+- **Português Nativo**
 - **Inglês Avançado** 
 
 
@@ -34,18 +33,14 @@
 > ⚠️ Atualmente estou atualizando e organizando meus repositórios.  
 > Em breve novos projetos estarão disponíveis por aqui! -->
 
-<div>
-  <a href="https://github.com/ThomasDixini/AplicativoEsteticaDemonstracao" style="font-weigth: bold; text-decoration:none;" target="_blank"> 
-    -  Aplicativo de Estética – Projeto Demonstrativo
-  </a>
-  <p>&nbsp;Aplicativo mobile desenvolvido em React Native (Expo) com backend em .NET, inspirado em um sistema real criado para um cliente da área de estética. O projeto foi construído como uma versão demonstrativa para portfólio, mantendo a mesma arquitetura, stack e complexidade técnica do projeto real, sem expor dados, regras de negócio sensíveis ou código proprietário.</p>
-</div>
-<div>
-  <a href="https://estetica-avancada.netlify.app" style="font-weigth: bold; text-decoration:none;" target="_blank"> 
-    - Landing Page - Estética avançada
-  </a>
-  <p>&nbsp;Landing page de estética criada para divulgação de serviços, com design moderno, interface responsiva e foco em experiência do usuário.</p>
-</div>
+### [Aplicativo de Estética — Demonstrativo](https://github.com/ThomasDixini/AplicativoEsteticaDemonstracao)
+Sistema full stack para gerenciamento de agendamentos estéticos. Backend em .NET 9 com autenticação JWT, mobile em React Native (Expo), notificações push via Firebase Cloud Messaging, NGINX como load balancer e Docker Compose com suporte a escalabilidade horizontal. CI/CD com GitHub Actions, testes unitários com xUnit e Moq.
+
+### [Event-Driven Notifications — RabbitMQ Demo](https://github.com/ThomasDixini/dotnet-rabbitmq-demo)
+Demonstração de arquitetura orientada a eventos com .NET 10 e RabbitMQ. Direct Exchange com filas independentes para clientes e administradores, Dead Letter Queue para tratamento de falhas, Worker Services consumindo em background e integração com Expo Push Notifications. Docker Compose e CI/CD configurados.
+
+### [Design Patterns](https://github.com/ThomasDixini/DesignPatterns)
+Repositório com implementações práticas dos principais Design Patterns em .NET, cada padrão com exemplo ruim vs exemplo bom e contexto de uso real.
 
 ## 📫 Contato
 <div align="center">
@@ -61,54 +56,6 @@
   <a href="https://thomasdixini.netlify.app">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
-</div>
-
-## 🎯 Tecnologias que já usei
-
-<div align="center">
-
-  <!-- Back-End -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20APIs%20RESTful-005571?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arquitetura%20Hexagonal-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monolitos-444444?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-239120?style=for-the-badge&logo=nginx&logoColor=white" />
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-  <!-- Front-End -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-
-  <!-- Back-End Frameworks -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-
-  <!-- Mobile -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
 </div>
 
 <!---
