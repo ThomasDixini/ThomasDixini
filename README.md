@@ -33,8 +33,8 @@
 > ⚠️ Atualmente estou atualizando e organizando meus repositórios.  
 > Em breve novos projetos estarão disponíveis por aqui! -->
 
-### [Aplicativo de Estética — Demonstrativo](https://github.com/ThomasDixini/AplicativoEsteticaDemonstracao)
-Sistema full stack para gerenciamento de agendamentos estéticos. Backend em .NET 9 com autenticação JWT, mobile em React Native (Expo), notificações push via Firebase Cloud Messaging, NGINX como load balancer e Docker Compose com suporte a escalabilidade horizontal. CI/CD com GitHub Actions, testes unitários com xUnit e Moq.
+### [YFCore Backend](https://github.com/ThomasDixini/YFCore.Backend))
+Backend desenvolvido em ASP.NET Core utilizando Domain-Driven Design (DDD), Clean Architecture, CQRS, Entity Framework Core e JWT Authentication, com foco em escalabilidade, manutenção e boas práticas de desenvolvimento.
 
 ### [Event-Driven Notifications — RabbitMQ Demo](https://github.com/ThomasDixini/dotnet-rabbitmq-demo)
 Demonstração de arquitetura orientada a eventos com .NET 10 e RabbitMQ. Direct Exchange com filas independentes para clientes e administradores, Dead Letter Queue para tratamento de falhas, Worker Services consumindo em background e integração com Expo Push Notifications. Docker Compose e CI/CD configurados.
