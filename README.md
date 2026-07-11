@@ -33,7 +33,7 @@
 > ⚠️ Atualmente estou atualizando e organizando meus repositórios.  
 > Em breve novos projetos estarão disponíveis por aqui! -->
 
-### [YFCore Backend](https://github.com/ThomasDixini/YFCore.Backend))
+### [YFCore Backend](https://github.com/ThomasDixini/YFCore.Backend)
 Backend desenvolvido em ASP.NET Core utilizando Domain-Driven Design (DDD), Clean Architecture, CQRS, Entity Framework Core e JWT Authentication, com foco em escalabilidade, manutenção e boas práticas de desenvolvimento.
 
 ### [Event-Driven Notifications — RabbitMQ Demo](https://github.com/ThomasDixini/dotnet-rabbitmq-demo)
