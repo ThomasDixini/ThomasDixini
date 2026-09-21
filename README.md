@@ -34,6 +34,9 @@
 > ⚠️ Atualmente estou atualizando e organizando meus repositórios.  
 > Em breve novos projetos estarão disponíveis por aqui! -->
 
+### [Lvsport - Ecommerce | Freelance](https://lvsport.com.br)
+Aplicação de e-commerce desenvolvida para uma empresa real, utilizando ASP.NET Core, Angular e PostgreSQL, com autenticação, integração com Mercado Pago, gerenciamento de catálogo e processamento de pedidos.
+
 ### [YFCore Backend](https://github.com/ThomasDixini/YFCore.Backend)
 Backend em ASP.NET Core desenvolvido com foco em arquitetura, organização de domínio e separação de responsabilidades, utilizando Entity Framework Core, PostgreSQL, MediatR/CQRS, FluentValidation, autenticação e tratamento global de exceções.
 
