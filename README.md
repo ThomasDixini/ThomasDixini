@@ -2,24 +2,25 @@
   <a href="https://github.com/ThomasDixini">🇧🇷 Português</a> | <a href="https://github.com/ThomasDixini/ThomasDixini/blob/main/README.en.md">🇺🇸 English</a>
 </div>
 
-<h1 align="center">Desenvolvedor Fullstack</h1>
-<h2 align="center">.NET C# | SQL Server | Azure | Node.js | Angular | JavaScript</h2>
+<h1 align="center">Desenvolvedor Backend .NET | C#</h1>
+<h2 align="center">C# | ASP.NET Core | Entity Framework Core | SQL Server | PostgreSQL | Azure</h2>
 
 
 ## 👨‍💻 Sobre Mim
-👋 Desenvolvedor Full Stack .NET com experiência em sistemas de produção. Atuo com foco em performance, qualidade de código e arquitetura.
+👋 Desenvolvedor Backend .NET com experiência no desenvolvimento e manutenção de sistemas de produção, atuando principalmente com C#, ASP.NET Core, Entity Framework Core e SQL Server.
 
-⚡ Gosto de resolver problemas complexos, melhorar a estabilidade de sistemas e desenvolver soluções reutilizáveis que geram valor para usuários e equipes.
+🔧 Experiência no desenvolvimento de APIs REST, implementação de regras de negócio, integrações com serviços externos e otimização de aplicações e consultas em banco de dados.
 
-📌 Estou sempre aprendendo, contribuindo e explorando novas tecnologias para entregar software eficiente e confiável.
+⚡ Tenho interesse em arquitetura de software, performance, qualidade de código e evolução de sistemas legados, buscando desenvolver soluções simples, eficientes e sustentáveis.
 
 ## 🔧 Stack Atual
-- **Desenvolvimento Backend:** C# · ASP.NET Core · Web APIs RESTful · Entity Framework Core · xUnit · Moq
-- **Mensageria & Infra:** RabbitMQ · Docker · Docker Compose · NGINX · GitHub Actions (CI/CD) · Azure
-- **Frontend & Mobile:** Angular · RxJS · TypeScript · React Native
-- **Banco de Dados:**  SQL Server · PostgreSQL · EF Core Migrations  
-- **Arquitetura & Práticas:**  Arquitetura em Camadas · SOLID · Clean Code · Design Patterns · Scrum / Kanban · Git Flow
-- **Ferramentas:** Git
+
+- **Backend:** C# · .NET · ASP.NET Core · Web APIs REST · Entity Framework Core
+- **Banco de Dados:** SQL Server · PostgreSQL · EF Core Migrations
+- **Arquitetura & Práticas:** SOLID · Clean Code · Design Patterns · DDD · CQRS · Arquitetura em Camadas
+- **Mensageria & Infra:** RabbitMQ · Docker · NGINX · Azure
+- **Testes & Qualidade:** xUnit · Moq · FluentAssertions · GitHub Actions · SonarCloud
+- **Versionamento:** Git · GitHub
 
 ## 🌎 Idiomas
 
@@ -34,7 +35,7 @@
 > Em breve novos projetos estarão disponíveis por aqui! -->
 
 ### [YFCore Backend](https://github.com/ThomasDixini/YFCore.Backend)
-Backend desenvolvido em ASP.NET Core utilizando Domain-Driven Design (DDD), Clean Architecture, CQRS, Entity Framework Core e JWT Authentication, com foco em escalabilidade, manutenção e boas práticas de desenvolvimento.
+Backend em ASP.NET Core desenvolvido com foco em arquitetura, organização de domínio e separação de responsabilidades, utilizando Entity Framework Core, PostgreSQL, MediatR/CQRS, FluentValidation, autenticação e tratamento global de exceções.
 
 ### [Event-Driven Notifications — RabbitMQ Demo](https://github.com/ThomasDixini/dotnet-rabbitmq-demo)
 Demonstração de arquitetura orientada a eventos com .NET 10 e RabbitMQ. Direct Exchange com filas independentes para clientes e administradores, Dead Letter Queue para tratamento de falhas, Worker Services consumindo em background e integração com Expo Push Notifications. Docker Compose e CI/CD configurados.
@@ -47,7 +48,7 @@ Repositório com implementações práticas dos principais Design Patterns em .N
   <a href="https://wa.me/5535997532401">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/thomas-dixini/">
+  <a href="https://www.linkedin.com/in/ThomasDixini/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thomasdixini@gmail.com" title="Me envie um email">
